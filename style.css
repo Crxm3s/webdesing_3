@@ -66,8 +66,10 @@
 }
 
 .gallery img {
-    width: 250px;
-    height: 150px;
+    width: 225px;
+    height: 125px;
+    margin-top: 20px;
+
 }
 
 @media (min-width: 768px) {
