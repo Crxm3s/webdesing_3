@@ -146,6 +146,18 @@
     margin-left: 10px;
 }
 
+.f_dv {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.f_dv .h_text {
+    padding-top: 10px;
+}
+
+
 @media (min-width: 768px) {
 
     .hero .container-fluid {
